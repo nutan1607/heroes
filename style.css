@@ -1,0 +1,13 @@
+.add-button, .delete-button {
+    background-color: lightblue;
+}
+
+.hero-name {
+    display: inline-block;
+    width: 148px;
+    margin: 10px;
+}
+
+.heroes-list-container li {
+    list-style-type: none;
+}
